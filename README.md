@@ -11,3 +11,8 @@ Escolas do ensino básico que não possuem água, luz nem esgoto.
 ## Dependências para a execução da análise e apresentação das informações:
 - Python versão 3.00+: Foram utilizadas as bibliotecas pandas, matplotlib e numpy
 - Jupyter Notebook
+
+
+
+
+#Feito por Pedro Cruz e Nicolas Lemuel.
