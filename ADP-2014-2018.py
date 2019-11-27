@@ -6,7 +6,6 @@
 #Importando bibliotecas que serão usadas.
 import pandas as pd
 import matplotlib.pyplot as plt
-import numpy as np
 low_memory=False
 pd.options.display.max_columns = 80
 pd.options.display.max_rows = 90
