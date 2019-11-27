@@ -1,6 +1,6 @@
 # Analise de Dados Públicos - INEP
 Escolas do ensino básico que não possuem água, luz nem esgoto.
-- Gráfico produzido através do código no arquivo .png encontrado no repositório.
+- Gráfico do código disponivel no arquivo .png encontrado no repositório.
 
 # Equipamento utilizado para a utilização dos dados:
 - Sistema Operacional: Windows 10 64 bits
@@ -11,7 +11,7 @@ Escolas do ensino básico que não possuem água, luz nem esgoto.
 ## Dependências para a execução da análise e apresentação das informações:
 - Python versão 3.00+: Foram utilizadas as bibliotecas pandas, matplotlib e numpy
 - Jupyter Notebook
-
+- Microdados para execução dos dados disponivel em inep.gov.br/microdados
 
 
 
