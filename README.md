@@ -1,5 +1,5 @@
 # Analise de Dados Públicos - INEP
-Escolas do ensino básico que não possuem água, luz nem esgoto.
+Escolas do ensino básico que não possuem água, luz nem esgoto: de 2014 a 2018
 - Gráfico do código disponivel no arquivo .png encontrado no repositório.
 
 # Equipamento utilizado para a utilização dos dados:
