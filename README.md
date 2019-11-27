@@ -1,5 +1,6 @@
 # Analise de Dados Públicos - INEP
 Escolas do ensino básico que não possuem água, luz nem esgoto.
+- Gráfico produzido através do código no arquivo .png encontrado no repositório.
 
 # Equipamento utilizado para a utilização dos dados:
 - Sistema Operacional: Windows 10 64 bits
