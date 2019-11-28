@@ -9,7 +9,7 @@ Escolas do ensino básico que não possuem água, luz nem esgoto: de 2014 a 2018
 - Memória física total: 6,00 GB.
 
 ## Requisitos para a execução da análise e apresentação das informações:
-- Python versão 3.00+: Foram utilizadas as bibliotecas pandas, matplotlib e numpy
+- Python versão 3.00+: Foram utilizadas as bibliotecas pandas e matplotlib.
 - Jupyter Notebook
 - Microdados para execução dos dados disponivel em inep.gov.br/microdados
 
