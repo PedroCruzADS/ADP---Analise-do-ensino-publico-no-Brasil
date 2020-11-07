@@ -14,4 +14,4 @@ Escolas do ensino básico que não possuem água, luz nem esgoto: de 2014 a 2018
 - Microdados para execução dos dados disponivel em inep.gov.br/microdados
 
 
-# Feito por Pedro Cruz e Nicolas Lemuel.
+# Feito por Pedro Cruz.
